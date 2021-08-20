@@ -1,1 +1,1 @@
-web: gunicorn bjj_bot:bjj_bot
+web: gunicorn app:app
