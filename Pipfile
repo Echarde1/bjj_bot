@@ -8,6 +8,7 @@ gunicorn = "*"
 pymysql = "*"
 flask = "*"
 flask-sqlalchemy = "*"
+pytelegrambotapi = "*"
 
 [dev-packages]
 
